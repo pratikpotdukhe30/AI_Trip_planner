@@ -7,7 +7,7 @@ uv python list
 uv venv venv cpython-3.15.1-windows-x86_64-none
 uv venv venv --python cpython-3.15.1-windows-x86_64-none
 C:\Users\prati\Trip_Planner\venv\Scripts\activate.bat
-uv pip list
+uv pip list 
 uv pip install langchain
 uv pip list
 git init
